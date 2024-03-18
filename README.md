@@ -8,4 +8,4 @@ git push origin master // добавление на gitHub в ветку master
 
 git log // инфа о коммитах, выдает хэш коммита
 git checkout хеш коммита // откат к нужной версии коммита
- 
+
